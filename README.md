@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GunjanSaini-DA&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/GunjanSaini-DA" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @GunjanSaini-DA" /></a>
 </p>
- <img align="right" alt="Coding" width="400" src="https://share.google/V6dhn1DVwk2XXplUM">
 
 <h3 align="center">Aspiring Data Analyst | BCA Student 
 Excel • SQL • Power BI</h3>
