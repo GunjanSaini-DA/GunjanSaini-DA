@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="center">Aspiring Data Analyst | BCA Student 
-Excel • SQL • Power BI</h3>
+Excel • Power BI</h3>
 
 <h3 align="left">More About Me:</h3>
 
