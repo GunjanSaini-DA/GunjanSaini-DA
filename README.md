@@ -1,53 +1,80 @@
-<p align="center">
-  <img src="https://github.com/GunjanSaini-DA/GunjanSaini-DA/blob/main/images.jpeg" alt="Profile Banner" width="100%">
-</p>
 
-<h1 align="center">Hi 👋, I'm Gunjan saini!</h1>
+<h1 align="center">Hi 👋 Exploring the World of Data Analytics</h1>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GunjanSaini-DA&show_icons=true&locale=en&theme=ocean_dark&count_private=true&hide_border=true" alt="GunjanSaini-DA's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GunjanSaini-DA&locale=en&theme=ocean_dark&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=GunjanSaini-DA&theme=ocean_dark&hide_border=true" alt="GitHub Streak Stats" /></p>
+<h3 align="center">📊 Aspiring Data Analyst</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GunjanSaini-DA&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/GunjanSaini-DA" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @GunjanSaini-DA" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Power+BI+Dashboard+Developer;Python+Data+Analysis;SQL+Data+Queries;Always+Learning+New+Skills" />
 </p>
 
-<h3 align="center">Aspiring Data Analyst | BCA Student 
-Excel • Power BI</h3>
+---
 
-<h3 align="left">More About Me:</h3>
+# 👩‍💻 About Me
 
-- 🌱 I’m currently learning: **Data Analysis, SQL, Power BI,  Excel, DAX Basics**
-- 🔭 I’m currently working on: **Data analysis projects Building interactive dashboards for business insights**
-- 💬 Ask me about: **Data Analysis, Power BI Dashboards, Data Cleaning**
-- 📫 How to reach me: [gunjansaini7405@gmail.com](mailto:gunjansaini7405@gmail.com)
-- 👨‍💻 **[My Portfolio](https://github.com/GunjanSaini-DA)**
-- ⚡ Fun fact: **I enjoy turning raw data into meaningful insights and dashboards 📊**
+🎓 BCA Student  
+📊 Aspiring **Data Analyst**  
+📈 Passionate about **data visualization & analytics**   
+📊 Practicing **data analysis and visualization**
+---
 
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/GunjanSaini-DA" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/gunjansaini-da" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+## 🛠️ Skills & Tools
+
+<p align="center">
+  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Paginated Reports](https://img.shields.io/badge/Paginated%20Reports-PowerBI-blue?style=for-the-badge&logo=powerbi)
+
+---
+
+# 🗄 SQL Skills
+
+Basic SQL queries I use:
+
+✔ SELECT  
+✔ WHERE  
+✔ GROUP BY  
+
+---
+
+## 📚 Currently Learning
+
+- SQL
+- Power BI Dashboards
+- Python for Data Analysis
+- Data Visualization
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=radical"/>
+
 </p>
-</div>
 
-<div class="skills-section">
-<h3 align="left">Languages and Tools:</h3>
-<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
+---
+
+## 🎯 Career Goal
+
+Aspiring **Data Analyst** passionate about learning data analysis and visualization using ** Excel, Python, and Power BI**.  
+Continuously improving my skills by working on data practice and analytics learning.
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=ff69b4&style=flat"/>
+
 </p>
-<h4 align="left">Other Skills:</h4>
-<p>Power BI, Microsoft Excel, Pandas, BI Paginated Report</p>
-</div>
+
+---
+
+⭐ If you like my work, feel free to explore my repositories!
